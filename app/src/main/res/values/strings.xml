@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Brain_Test</string>
+    <string name="back">Back</string>
+    <string name="sing_in">Sing in</string>
+    <string name="first_name">First Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="_1700_market_street">1700 Market Street</string>
+    <string name="register">register</string>
+    <string name="second_name">Second name</string>
+    <string name="tests">tests</string>
+    <string name="name_test">name test</string>
+    <string name="go">Go</string>
+    <string name="go">Go</string>
+    <string name="user" />
+    <string name="achievements">achievements</string>
 </resources>
