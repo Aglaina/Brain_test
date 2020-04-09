@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.appcompat.app.AppCompatActivity void onCreate(android.os.Bundle) 0'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
